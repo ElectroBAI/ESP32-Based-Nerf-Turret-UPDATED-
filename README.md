@@ -1,4 +1,7 @@
 # ESP32 Based Nerf Turret[UPDATED]
+
+![ESP32-Based-Nerf-Turret-UPDATED-](Screenshot 2026-05-04 092929.png)
+
 🛡️ Dual-Axis Web-Controlled Nerf Turret
 
 A compact, precision-controlled foam dart turret built around an ESP32, featuring:
